@@ -1,6 +1,6 @@
 # Awesome DSA
 
-> And never say of anything, “I will definitely do this tomorrow,” without adding, “if Allah so wills!” But if you forget, then remember your Lord, and say, “I trust my Lord will guide me to what is more right than this.” — Quran 18:23-24
+> When one is touched with hardship, they cry out to Us ˹alone˺. Then when We shower Our blessings upon them, they say, “I have been granted all this only because of ˹my˺ knowledge.” Not at all! It is ˹no more than˺ a test. But most of them do not know..” — Quran 39:49
 
 ---
 This is an initiative to explain and implement some of the most commonly used data structures and algorithms.
@@ -11,3 +11,7 @@ This is an initiative to explain and implement some of the most commonly used da
 HELP PALESTINE — SPREAD THE WORD — STOP THE GENOCIDE
 
 🍀 Donation Link — [https://t.me/nas2nasorg](https://t.me/nas2nasorg)
+
+
+# Data Structures
+- Linked List: [Javascript](blob/master/data-structures/linked-list/javascript)
